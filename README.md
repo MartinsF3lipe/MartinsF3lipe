@@ -1,14 +1,13 @@
-# 👋 Olá! Eu sou o Cauã Felipe
+# 👋 Hello! I'm Felipe Martins
 
-🎓 Estudante de [coloque o que você está estudando]  
-💻 Iniciante em desenvolvimento com foco em [Next.js, React, etc]  
-📘 Atualmente aprendendo: [ex: GraphQL, JavaScript, etc]  
+🎓 Student of [Html, Css, Javascript, React.js, Next.js]  
+💻 Beginner in development with a focus on [Next.js, React, etc]  
+📘 Currently learning: [ex: GraphQL, JavaScript, etc]  
 🔗 Meus links:
 
-- 📎 [Meu Portfólio](https://seuportfolio.com)
-- 📫 Email: seuemail@email.com
+- 📫 Email: fo729183@email.com
 
-## 🚀 Tecnologias que estou aprendendo:
+## 🚀 Technologies I'm learning:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
