@@ -1,10 +1,5 @@
 # 👋 Hello! I'm Felipe Martins
 
-🎓 Student of [Html, Css, Javascript, React.js, Next.js]  
-💻 Beginner in development with a focus on [Next.js, React, etc]  
-📘 Currently learning: [ex: GraphQL, JavaScript, etc]  
-🔗 Meus links:
-
 - 📫 Email: fo729183@email.com
 
 ## 🚀 Technologies I'm learning:
