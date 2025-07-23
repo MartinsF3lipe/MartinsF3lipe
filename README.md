@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Cauã Felipe
 
-<!--
-**MartinsF3lipe/MartinsF3lipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de [coloque o que você está estudando]  
+💻 Iniciante em desenvolvimento com foco em [Next.js, React, etc]  
+📘 Atualmente aprendendo: [ex: GraphQL, JavaScript, etc]  
+🔗 Meus links:
 
-Here are some ideas to get you started:
+- 📎 [Meu Portfólio](https://seuportfolio.com)
+- 📫 Email: seuemail@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs)
