@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Felipe Martins</h1>
 
 <p align="center">
-  <img src="https://github.com/MartinsF3lipe/MartinsF3lipe/blob/main/522299287_1761276038604386_489190014537829176_n.jpg" alt="AI Generated Background" width="50%" />
+  <img src="https://github.com/MartinsF3lipe/MartinsF3lipe/blob/main/522299287_1761276038604386_489190014537829176_n.jpg" alt="AI Generated Background" width="30%" />
 </p>
 
 <p align="center">
